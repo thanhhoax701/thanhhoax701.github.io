@@ -167,7 +167,7 @@ a {
 }
 
 .facebook:hover {
-    background-color: #2c5bf7;
+    background-color: #458ff0;
     color: #fff;
 }
 
@@ -177,7 +177,7 @@ a {
 }
 
 .email:hover {
-    background-color: #ec3d3d;
+    background-color: #ee9571;
     color: #fff;
 }
 
@@ -202,15 +202,28 @@ a {
     color: #000;
 }
 
-.facebook a,
-.github a,
-.email a,
-.instagram a {
-    padding: 0px;
-    line-height: 1.5;
-    width: 100%;
-    font-weight: 500;
-    color: #2c5bf7;
+.fa-facebook {
+    background: #0c0cf0;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+}
+
+.fa-google {
+    background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+}
+
+.fa-instagram-square {
+    background-image: linear-gradient(to top, #ec0909 0%, #f31db6 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
 }
 
 
