@@ -182,7 +182,7 @@ a {
 }
 
 .instagram:hover {
-    background-color: #830a5a;
+    background-color: #a0056c;
     color: #fff;
 }
 
@@ -202,7 +202,8 @@ a {
     color: #000;
 }
 
-.fa-facebook {
+
+/* .fa-facebook {
     background: #0c0cf0;
     -webkit-background-clip: text;
     background-clip: text;
@@ -224,7 +225,7 @@ a {
     background-clip: text;
     color: transparent;
     -webkit-text-fill-color: transparent;
-}
+} */
 
 
 /* Phần footer */
