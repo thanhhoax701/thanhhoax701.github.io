@@ -153,7 +153,7 @@ a {
 .email,
 .instagram {
     font-size: 20px;
-    color: #2c5bf7;
+    color: #1d1e18;
     border: none;
     text-align: center;
     cursor: pointer;
@@ -164,26 +164,27 @@ a {
     padding: 16px 20px;
     overflow: hidden;
     transition: all 0.5s linear;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .facebook:hover {
-    background-color: #458ff0;
-    color: #fff;
+    background-color: #c8dcf5;
+    color: #0c0cf0;
 }
 
 .github:hover {
-    background-color: #3e3f44;
-    color: #fff;
+    background-color: #c8dcf5;
+    color: #000;
 }
 
 .email:hover {
-    background-color: #ee9571;
-    color: #fff;
+    background-color: #c8dcf5;
+    color: #e71b2c;
 }
 
 .instagram:hover {
-    background-color: #a0056c;
-    color: #fff;
+    background-color: #c8dcf5;
+    color: #aa0658;
 }
 
 .facebook i,
@@ -202,8 +203,7 @@ a {
     color: #000;
 }
 
-
-/* .fa-facebook {
+.fa-facebook {
     background: #0c0cf0;
     -webkit-background-clip: text;
     background-clip: text;
@@ -225,7 +225,7 @@ a {
     background-clip: text;
     color: transparent;
     -webkit-text-fill-color: transparent;
-} */
+}
 
 
 /* Phần footer */
